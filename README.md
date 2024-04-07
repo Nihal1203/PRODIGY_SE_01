@@ -1,4 +1,5 @@
 # Prodigy_SE
+Requirement:Java must be setup in your local machine  
 Follow below steps to run the code 
 Steps
 1: To run above code first of all paste the above code in one folder in your local machine.
